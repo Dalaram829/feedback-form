@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "feedback",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
